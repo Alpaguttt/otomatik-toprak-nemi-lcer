@@ -21,5 +21,7 @@ Adım 2: Telegram Botu: Telegram botu oluşturulacak, Telegrm API Arduino'ya ent
 Adım 3: Zaman Aralığı: Arduino, 4 saat arayla toprak nemini ölçüp Telegram'a gönderecek şekilde programlanacaktır.
 Adım 4: Bildirim Sistemi: Nem seviyesi 4 saatte bir Telegram üzerinden bildirim olarak gönderilecektir.
 Adım 5: Test ve Sonuç: Sistem test edilip, doğruluğu kontrol edilecek ve geri bildirimlere göre düzenlemeler yapılacaktır.
+                  
+                  
                   21360859018       21360859016         21360859015        21360859008
                   İrem Aytaş        Ahmet Mert Yıldız   İsa Caner Çal      Samet Dönmez
