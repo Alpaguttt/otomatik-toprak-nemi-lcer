@@ -36,7 +36,7 @@ Projeyi çalıştırmak için aşağıdaki bileşenler gereklidir:
 5. Cihazınızı açarak Telegram üzerinden bildirimleri almaya başlayın.
 
 ## 5. Proje Lisans Bilgileri
-Bu proje MIT Lisansı ile lisanslanmıştır. Serbestçe kullanabilir, değiştirebilir ve dağıtabilirsiniz.
+Bu proje MIT Lisansı ile lisanslanmiştır. Serbestçe kullanabilir, değiştirebilir ve dağıtabilirsiniz.
 
 ## 6. Proje Anahtar Kelimeleri
 - Arduino
