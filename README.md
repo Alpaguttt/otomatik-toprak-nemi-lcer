@@ -1,7 +1,7 @@
 # Toprağın Nemini Ölçüp Bildiren Sistem
 
 ## 1. Proje Konusu
-Toprağın nem seviyesi, bitkilerin sağlıklı büyümesi için önemli bir faktördür. Bu proje ile toprak nemini ölçen ve ölçülen verileri Telegram uygulaması üzerinden kullanıcılara bildirim gönderen bir sistem tasarlanacaktır. Bu sayede bitki bakımı kolaylaşacak ve sulama zamanları hatırlatılacaktır.
+Toprağın nem seviyesi, bitkilerin sağlıklı büyümesi için önemli bir faktördür. Bu proje ile toprak nemini ölçen ve ölçülen verileri Telegram uygulaması üzerinden kullanıcılara bildirim gönderen bir sistem tasarlanacaktır. Bu sayede bitki bakımı kolaylaşacak ve sulama zamanları hatırlatılacaktır .
 
 ## 2. Proje Kısa Özeti
 Bu projede bir toprak nem sensörü kullanılarak nem seviyeleri Arduino tarafından okunacak ve belirlenen aralıklarla (4 saatte bir) Telegram botu aracılığıyla kullanıcılara bildirim olarak iletilecektir. Arduino’nun internet bağlantısı için ESP8266 veya ESP32 modülü kullanılacaktır.
